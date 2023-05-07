@@ -1,9 +1,7 @@
 <?php  
 $x = 25;
-$y = "hai";
 $z = 10;
-
-var_dump($x,$y);
+var_dump($x,$z);
 echo $x + $z;
 
 ?>  
